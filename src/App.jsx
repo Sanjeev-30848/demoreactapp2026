@@ -15,16 +15,16 @@ function App() {
           let txt="jfsd"
           let emp={"id":1,"name":"ram","salary":8000,"gender":"male"}
  
-
+ 
   return (
     <div>
           <h2 style={{textAlign:"center",color:"red"}}>
             <u>Sample React App</u>
           </h2>
  
-        {/* <Demo1/>
+        <Demo1/>
         <Demo2/>
-        <Demo3/> */}
+        <Demo3/>
  
         <Demo4 a={a} b={100} text={txt} emp={emp}/>
  

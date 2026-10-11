@@ -6,7 +6,7 @@ export default function Demo2()
 {
   return (
  
-    <div class="card">
+    <div className="card">
  
         <div className="card-img-wrapper">
        
@@ -25,4 +25,5 @@ export default function Demo2()
     </div>
   )
 }
+ 
  

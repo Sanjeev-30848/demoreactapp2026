@@ -12,6 +12,18 @@
 
 .demo
 {
+    text-align: center;
+    width: 300px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 2px solid green;
+    border-radius: 10px;
+    background: #ffffff;
+    box-shadow: 0 4px 15px rgba(0,0,0,10);
+}
+
+.btn
+{
     padding: 10px 20px;
     margin: 5px;
     border: none;
